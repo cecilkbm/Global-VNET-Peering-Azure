@@ -45,5 +45,6 @@ This lab reinforced that cloud networking is still networking — just with diff
   - All offices connected in a mesh topology to allow direct communication
   - Secure routing paths established between all locations
 
-<img width="1658" height="2540" alt="Network_Diagram" src="https://github.com/user-attachments/assets/220d2a9b-d733-4598-8eeb-6ac388288180" />
+<img width="1658" height="2540" alt="Network_Diagram" src="https://github.com/user-attachments/assets/0ee0946f-fd5d-4aa9-a164-738482a3bf6f" />
+
 
