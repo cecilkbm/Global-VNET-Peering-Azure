@@ -45,7 +45,6 @@ This lab reinforced that cloud networking is still networking — just with diff
   - All offices connected in a mesh topology to allow direct communication
   - Secure routing paths established between all locations
 
-<img width="6654" height="4650" alt="Azure Network Peering Project1" src="https://github.com/user-attachments/assets/94aa2e91-3251-4827-83bf-f56ff2db2415" />
 
 
 
