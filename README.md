@@ -1,8 +1,8 @@
 # 🌐 Azure Networking Lab: Multi-Region Office Connectivity
-
 A hands-on Azure networking lab focused on designing and implementing secure, multi-region connectivity that simulates an on-premises enterprise environment running in the cloud.
-
 This lab models how organizations with multiple physical offices can extend and interconnect their networks in Azure while maintaining secure, reliable communication across regions.
+
+---
 
 ## ✨ Technologies
   - Microsoft Azure
