@@ -4,14 +4,14 @@ This lab models how organizations with multiple physical offices can extend and 
 
 ---
 
-## ✨ Technologies
+## Technologies
   - Microsoft Azure
   - Azure Virtual Networks (VNets)
   - VNet Peering
   - Azure Networking & Routing concepts
   - Multi-region architecture (East US & West US)
-
-## 🚀 Features
+#
+## Features
   - Simulated on-premises infrastructure hosted in Azure
   - Three interconnected data centers across two Azure regions:
     - New York (East US)
@@ -20,7 +20,7 @@ This lab models how organizations with multiple physical offices can extend and 
   - Mesh-style network connectivity between offices
   - Secure inter-office communication design
   - Focus on networking architecture rather than resource sprawl
-
+#
 ## 🧠 The Process
 This lab started with a realistic enterprise scenario:
 multiple offices, geographically separated, that must communicate as if they were on the same wide-area network.
@@ -30,8 +30,8 @@ Instead of focusing on individual Azure resources, the goal was to understand ho
 By designing connectivity between East US and West US regions, I explored how Azure networking abstractions can replicate traditional on-premises WAN designs while offering cloud-native flexibility.
 
 The emphasis was on connectivity, routing, and trust boundaries, not just clicking through the portal. 
-
-## 🧪 What I Learned
+#
+## What I Learned
 How to design multi-region network topologies in Azure
   - The tradeoffs between regional latency and connectivity
   - How mesh-style networking improves redundancy
@@ -39,13 +39,13 @@ How to design multi-region network topologies in Azure
   - How on-premises concepts translate into cloud-native designs
 This lab reinforced that cloud networking is still networking — just with different primitives.
 
-## 🧭 Architecture Overview
+## Architecture Overview
   - Two offices deployed in East US to represent regional proximity
   - One office deployed in West US to represent cross-country connectivity
   - All offices connected in a mesh topology to allow direct communication
   - Secure routing paths established between all locations
 
-<img width="6654" height="4650" alt="Azure Network Peering Project1" src="https://github.com/user-attachments/assets/07b3ffd7-e5c1-4bfc-be1a-30aa2705bfd9" />
+<img width="831" height="581" alt="Azure Network Peering Project1" src="https://github.com/user-attachments/assets/07b3ffd7-e5c1-4bfc-be1a-30aa2705bfd9" />
 
 
 
