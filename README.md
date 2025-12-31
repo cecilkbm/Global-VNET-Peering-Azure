@@ -31,7 +31,7 @@ By designing connectivity between East US and West US regions, I explored how Az
 
 The emphasis was on connectivity, routing, and trust boundaries, not just clicking through the portal. 
 #
-## What I Learned
+## Lessons Learned
 How to design multi-region network topologies in Azure
   - The tradeoffs between regional latency and connectivity
   - How mesh-style networking improves redundancy
